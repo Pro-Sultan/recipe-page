@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/Pro-Sultan/recipe-page](https://github.com/Pro-Sultan/recipe-page)
 - Live Site URL: [https://frontendmentor-recipepage2.netlify.app/](https://frontendmentor-recipepage2.netlify.app/)
 
 ## My process
@@ -56,9 +56,7 @@ Throughout the course of this project, I embarked on a journey to refine my skil
 </div>
 ```
 
-
 ## Author
 
 - Frontend Mentor - [@Pro-Sultan](https://www.frontendmentor.io/profile/Pro-Sultan)
 - Twitter - [@devsultan01](https://www.twitter.com/devsultan01)
-
